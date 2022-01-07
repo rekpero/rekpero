@@ -28,7 +28,7 @@
 </p>
 
 ---
--	🐎 Founder of [ArGo](https://argoapp.live).
+-	🐎 Co-Founder of [ArGo](https://argoapp.live).
 - 📍 Co-Founder, Frontend dev of [TerraMap](https://github.com/Terra-Maps).
 - 🔭 I’m an active Gitcoiner [Rekpero](https://gitcoin.co/rekpero)
 - 🤖 I'm currently working in a startup as a CTO in ArGo.
