@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A Blockchain and Frontend developer from India. 
+  Tech Lead from India. Highly opinionated toward web3 technology
 </p>
 
 <p align='center'>
@@ -28,11 +28,8 @@
 </p>
 
 ---
--	🐎 Co-Founder of [ArGo](https://argoapp.live).
-- 📍 Co-Founder, Frontend dev of [TerraMap](https://github.com/Terra-Maps).
-- 🔭 I’m an active Gitcoiner [Rekpero](https://gitcoin.co/rekpero)
-- 🤖 I'm currently working in a startup as a CTO in ArGo.
-- 🌱 I'm a Web3/Blockchain Dev as well as a Frontend developer.
+-	🐎 Co-Founder of [Spheron](https://spheron.network).
+- 🔭 In love with OSS
 
 
 <!--- 
@@ -55,8 +52,4 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rekpero/count.svg" />
-</p>
-
-<p align="right">
-Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a>
 </p>
