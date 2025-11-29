@@ -4,11 +4,11 @@
 </h1>
 
 <p align='center'>
-  Tech Lead from India. Highly opinionated toward web3 technology
+  Tech Lead from India. Highly opinionated toward web3 and AI technologies.
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:mmitrasish97@gmail.com'>mmitrasish97@gmail.com</a>
+  📫 How to reach me 👇
 </p>
 
 <p align='center'>
